@@ -1,0 +1,12 @@
+{
+	"repositories": {
+		"packagist": {
+			"type": "composer",
+			"url": "https://packagist.phpcomposer.com"
+		}
+	},
+	"require": {
+		"topthink/think-captcha": "^2.0",
+		"topthink/think-mongo": "^2.0"
+	}
+}
